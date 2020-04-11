@@ -6,5 +6,4 @@ c = int(x % 1000 / 100)
 d = int(x % 100 / 10)
 e = int(x % 10)
 
-print(a,b,c,d,e)
-
+print(a, b, c, d, e)
