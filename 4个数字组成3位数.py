@@ -1,5 +1,5 @@
 # 4个数字组成3位数
-
+# 这是一个测试
 for i in range(1, 5):
     for j in range(1, 5):
         for k in range(1, 5):
