@@ -8,6 +8,6 @@ def bubbleSort(arr):
 
 
 if __name__ == '__main__':
-    a = [5, 3, 7, 9, 22, 66, 99, 87, 32, 45]
+    a = [5, 3, 7, 9, 22, 66, 99, 87, 32, 45, 345, 525]
     bubbleSort(a)
     print(a)
