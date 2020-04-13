@@ -8,4 +8,9 @@ a = f1.read()
 f2 = open("2.txt", encoding="utf-8")
 b = f2.read()
 
-print(a, b)
+l = list(a+b)
+l.sort()
+s = ""
+s = s.join(l)
+
+print(s)
