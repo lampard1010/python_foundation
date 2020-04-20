@@ -11,4 +11,4 @@ def fon(j):
     return sum
 
 if __name__ == '__main__':
-    print(fon(3))
+    print(fon(6))
